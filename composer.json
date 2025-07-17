@@ -1,0 +1,13 @@
+{
+    "name": "qr-code-generator",
+    "description": "A simple QR code generator system.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "endroid/qr-code": "^4.6"
+    }
+}
